@@ -7,7 +7,7 @@
     <title>{{ $title ?? 'Board Exam' }}</title>
     @vite(['resources/css/app.css', 'resources/ks/app.js'])
 </head>
-<body class="h-screen flex flex-col justify-center items-center bg-gray-400">
+<body class="h-screen flex flex-col justify-center items-center bg-gray-700">
     {{ $slot }}
 </body>
 </html>
