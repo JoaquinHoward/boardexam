@@ -1,3 +1,3 @@
 <x-layout>
-    <h1>login</h1>
+    <h1>nurse</h1>
 </x-layout>

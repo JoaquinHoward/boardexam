@@ -1,3 +1,3 @@
 <x-layout>
-    <h1>register</h1>
+    <h1>pharmacy</h1>
 </x-layout>

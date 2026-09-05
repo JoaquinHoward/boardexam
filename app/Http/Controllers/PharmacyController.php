@@ -4,14 +4,14 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class LoginController extends Controller
+class PharmacyController extends Controller
 {
     /**
      * Display a listing of the resource.
      */
     public function index()
     {
-        return view('login');
+        return view('pharmacy');
     }
 
     /**
