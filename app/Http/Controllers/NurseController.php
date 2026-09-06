@@ -11,7 +11,7 @@ class NurseController extends Controller
      */
     public function index()
     {
-        return view('nurse');
+        return view('nurse.review');
     }
 
     /**

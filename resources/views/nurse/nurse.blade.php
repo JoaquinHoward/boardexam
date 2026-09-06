@@ -8,5 +8,5 @@
         <x-option>Nursing Practice V</x-option>
     </div>
 
-    <x-button class="hidden start-btn absolute bottom-10">Start</x-button>
+    <x-a href="nurse/review" class="hidden start-btn absolute bottom-10">Start</x-a>
 </x-layout>
