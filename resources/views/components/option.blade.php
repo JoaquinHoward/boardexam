@@ -1,4 +1,4 @@
-<x-button onclick="toggleOption(event, this) ">
+<x-button onclick="toggleOption(event, this) " {{ $attributes }}>
     {{ $slot }}
     <span class="checkbox block mt-2">
         ☐
